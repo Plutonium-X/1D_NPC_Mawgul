@@ -2,7 +2,7 @@
 
 Il vous attend dans le temple de Helm (Heaum), dans le district du pont.
 
-Particularités :
+Particularités :  
 Son dialogue se résume à sa présentation. Vous l’engagez, puis plus rien.
 - Il commence aux niveaux 13/13 avec 2,5M d'xp.
 - Il a 20% de résistance aux dégâts de feu et froid magiques.
