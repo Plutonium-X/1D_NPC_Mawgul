@@ -1,3 +1,3 @@
-# Mauro le drow guerrier/mage
+# Mawgul le drow guerrier/mage
 
 Il arrive.....
