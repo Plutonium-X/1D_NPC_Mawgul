@@ -1,0 +1,301 @@
+@9001 = ~[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
+@9002 = ~\(Not[ %tab%]+\|Un\)[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
+@0 = ~Mawgul NPC~
+@1 = ~Mauro~
+@2 = ~When you grow curious about the past of the enigmatic MAURITIUS, you see in his face something wrong with an elf... he is old, very old even for an elf. You then take in some air and ask him about his life. Calmly, he looks you in the eyes with his bushy eyebrows and replies, "There is not much to tell." Then you wonder if he really is an elf or something more. His stand as a Mage of Helm does not provide answers to your questions, but instead fuels many doubts. What are Mauro's reasons to follow you? Why does he not stay with the Helmites? Soon you realize that it is pointless to keep thinking, your divine descent has much to do and even Helm may have sent someone to follow you...~
+@3 = ~Gollum~
+@4 = ~Katana: Mawgul's Firebird~
+@5 = ~STATISTICS:
+
+THAC0: +3
+Damage: 1d10+3 + 2 Fire and Acid Damage
+Damage Type: Slashing
+Weight: 3
+Speed Factor: 1
+Proficiency: Katana
+Type: 1-handed
+Not Usable by:
+  Cleric
+  Mage
+  Thief~
+@6 = ~Stone Dagger~
+@7 = ~Mauro's Stone Dagger is a sign of an Enforcer of the Balance... You find this weapon quite useless for a fight but Mauro criticizes you, telling you their use is to be equipped for their abilities and not for aggression.
+
+STATISTICS:
+
+Damage: 1D4
+Damage Type: Piercing
+Weight: 1
+Speed Factor: 2
+Proficiency: Small Sword
+
+While equipped:
+  Vocalize
+  Magic Resistance +15%
+  Reduce Casting Time by 3
+  
+Not Usable by:
+Cleric~
+@8 = ~Katana: Mawgul's Electrocutor~
+@9 = ~STATISTICS:
+
+THAC0: +3
+Damage: 1d10+3 + 2 Cold and Electric Damage
+Damage Type: Slashing
+Weight: 3
+Speed Factor: 1
+Proficiency: Katana
+Type: 1-handed
+Not Usable by:
+  Cleric
+  Mage
+  Thief~
+@10 = ~The Dancing Light~
+@11 = ~This is an artifact that Mauro has, which, according to him, is a sign of the Enforcers of the Balance... The well-known ring, the Dancing Light, also called the Solar Magnifying glass is the Mauritius' main weapon of choice to eliminate the undead.
+
+STATISTICS:
+
+Special skills:
+  Cast Solar Ray (Twice a Day)
+	Cast False Dawn (Twice a Day)
+
+While your equipped
+  Immunity to Level Drain
+
+Usable by:
+  All~
+@12 = ~Sacred Symbol of Helm~
+@13 = ~This is an artifact that Mauro has, which, according to him, is a sign of the Enforcers of the Balance... According to Mauro, the Mages of Helm are not allowed to ever use this Sacred Symbol. So, him gaining this inspite of being a Mage, he considers it proof that Helm is confident in his devotion.
+
+STATISTICS:
+
+Special skills:
+  Provides two extra spells in the 2nd, 3rd and 4th level
+  Incresses Wisdom by 2
+
+Usable by:
+  Mage~
+@14 = ~Mark of the Magus~
+@15 = ~This is an artifact that Mauro has, according to whom, it is used to monitor the balance... 
+
+When you see the Mark of the Magus, you suddenly feel an urge to wear it. It is very light and according Maurilondin, someone (probably me) entered a den of Trolls and trapped the leader in a gem with a unique charm. This armor now carries the same gem and confers its bonuses on the wearer.
+
+STATISTICS:
+
+Special skills:
+  AC: -1
+  Regenerate 1 point every 3 seconds
+
+Usable by:
+  Mage
+  Druid
+  Monk~
+@16 = ~Amulet of Imbalance~
+@17 = ~This is an artifact that Mauro has, according to whom, it is used to monitor the balance...
+
+Mawgul is extremely skilled in the elements. He says someone of great power (again presumably me) got a fragment of a Mirror of Opposition and adhered it to an Amulet of Balance to monitor fluctuations as well as reverse harmful magical.
+
+STATISTICS:
+
+Special skills:
+  Reflects all spell damage back to its origin
+  This includes offensive spells like magic missile, but not spells like Charm and Hold Person~
+@18 = ~Mind Shield (Scroll)~
+@19 = ~This is an item that Mauro possesses, in order to monitor the balance...
+
+A piece of paper is all that stands between the unknown and Mawgul's mysterious mind. Do you think evil could get a chance to part the information from the mind of Maurilondin.
+
+STATISTICS:
+
+Special skills:
+  This scroll provides a Mind Shield
+  The wearer is immune to psionic attacks, confusion, and domination~
+@20 = ~The Cloak of Valy-Gul, the Right-hand of Bhaal~
+@21 = ~This is an artifact that Mauro possesses, in order to monitor the balance...
+
+During his trip, a man who he saved gave him this gift of a curse. Moments later, the man thought that it would be terrible for someone to possess an object so powerful. When you ask what happened next, Mauro is remarkably elusive.
+
+STATISTICS:
+
+Special skills:
+  This layer provides the energy necessary to make any normal weapon damage
+  The bearer is immune to poison and disease~
+@22 = ~The Warrior's Arm~
+@23 = ~This is an artifact that Mauro possesses, in order to monitor the balance...
+
+The arm is a mix of many mystical and mechanical elements. At its side, there is an inscription saying, 'Mauro Il-Khan'. Mauritius, as usual, does not feel like talking about it.
+
+STATISTICS:
+
+THAC0 Bonus: +1
+Damage Bonus: +2
+Saving Throws: +2
+
+Special skills:
+  Improved speed 3 times a day~
+@24 = ~Helmite Belt of Balance~
+@25 = ~This is an artifact that Mauro possesses, in order to monitor the balance...
+
+The belt one of Mawgul's most powerful artifacts. He says that it helps him keep his own internal equiibrium. He implies that Helm watches all over Toril through this belt.
+
+STATISTICS:
+
+Special skills:
+  Bonus AC +3 against Slashing
+  Sets Strength to 18
+  Sets Constitution to 18~
+@26 = ~The Thieves' Manual~
+@27 = ~When Robin the Hobbit was grown up, there was still much doubt over whether he could manage the family business. His grandfather, Obilb then wrote a book that deatiled all the tricks to detect traps and open locks. Unfortunately, he could not teach Robin because the book was stolen by gnomes. Mauro says he found and 'bought' it at a very reasonable price to aid him in the arts of magic.
+
+Special Attitudes:
+  Cast Open Locks and Detect Traps whenever the user wants~
+@28 = ~The One Ring~
+@29 = ~It is highly recommendeded not putting it on but if you rub it, (like a lamp) you will get to help someone in dispair~
+
+@31 = ~Nemesis +6~
+@32 = ~This is a sword from the ancient days. Its blade is pure mithril and its hilt is covered with the scaly skin of a Black Dragon. The exact origin of the mystical blade is not known but it is supposed to be one of the creations of Eöl, the Drow Transmuter. 
+
+Like its supposed creator, your resolve becomes full of hate as you gaze at the sword. When you approach it, your hand feels desire to forget all the moral codes forever.
+
+STATISTICS:
+
+Special Skills:
+  Cast Haste, Barkskin and Invisibility together once a day
+  Dispels all magical defences with each hit
+  Constitution decreases -2
+  Dexterity increses +2
+  By equiping the sword, the user permanently changes alignment to Chaotic Neutral and has Charisma lowered by -2
+
+THAC0: +6
+Damage: 1d8+6
+Damage Type: Slashing
+Weight: 11
+Speed Factor: 1
+Proficiency: Longsword
+Type: 1-handed
+Not Usable by:
+  Cleric
+  Druid
+  Mage~
+@33 = ~Armor of Lum the Mad~
+@34 = ~The quick and illegible writing by Lum does not let you know that this armor's powers are but still says that it possesses something that is very powerful and dangerous.
+
+... 
+Who is that woman in the front who possesses both the great magical resistance
+and the extraordinary hardiness in her armor and who casts the same spells as I
+          Lum 
+...
+And Ray broke the mirror and the woman disappears...
+...~
+@35 = ~Instruction Book: Free Sample Edition + 3 Easy ways to kill a Dragon.~
+@36 = ~This book contains a lot of easy techniques to make quick work of the many challenges that await us in Faerûn.
+
+For example, to defeat a lich launch simultaneously launch two Sunrays nearby.
+
+To do away with a Demon Prince, cast Breach and Pierce Magic constantly and pull up all the fighters together for a grand finish.
+
+The best technique against for aggression against Giant Trolls by far, is to have two people having immunity to fire. Then send them to battle with the Troll, while a mage and cleric can throw Fireballs and Fire Storms fearlessly.
+
+This book includes three free samples to outright kill a dragon with a special spell (works for 66% of the time verified by Dragon Slayer & Assoc.)~
+@37 = ~Genesis +5~
+@38 = ~This is a sword from the present day. Its blade is pure mithril and the hilt is coated on the silky skin of a White Nymph. It is believed to be an inverted copy of the Nemesis. Like its sister sword, the blade is full of mystery. Although unlike its counterpart, its power is in defense and not to the offense.
+
+STATISTICS:
+
+Special Skills:
+  Cast Blur, Mirror Image, Stoneskin and Fire Shield (blue) together three times a day.
+  Lets the user be immune to magic once a day
+  Constitution increases +2
+  Dexterity decreases -2
+  Constitution increases +2
+
+THAC0: +5
+Damage: 1d8+5
+Damage Type: Slashing
+Weight: 11
+Speed Factor: 4
+Proficiency: Longsword
+Type: 1-handed
+
+Usable by:
+  Mage (specialized or multiclass)~
+@39 = ~Holy Scriptures of Weimar~
+@40 = ~Holy Scriptures of Weimar (Tremble Heretics)
+
+This is the most powerful ever written.
+
+When you open it, you note that each page contains a single (and unlimited) spell that anyone can cast. You can also turn the page and have access to the other spells but without the possibility of returning to the former.
+
+The spells you can find are:
+  Fire Strike
+  Sanctuary
+  Remove Fear
+  Holy Smite
+  Cure Critical Wounds
+  Ironskin
+  Summon Deva
+  Zone of Sweet Air
+  Bolt of Glory
+  Flame Blade
+
+This book is very big and full of very wise passages. Behold some of them:
+
+The old priest sat in the chair and looked towards the young people who had gathered around, eager to listen before and while they sat, he spake, "Sit, young pupils, and hear the wisdom of the past from the lips of the wise
+elders, listen to the story of the creation of the world...
+
+The Old Testament: Genesis
+
+"When there was only the Void, on the first day, J.R.R.Tolkien decided to create the universe of "The Lord of the Rings". And he saw that it was good.
+
+The Wizards of the Coast, on the second day, to govern the universe, brought to light the rules of Dungeons & Dragons ... and saw that they were good.
+
+On the third day, some men with glasses and sweaters from colleges, populated the universe and created the great sagas of 'The Elder Scrolls', 'Ultima', 'The Dragon Lore', 'Might & Magic'... and
+saw that were very good.
+
+The fourth day, was the creation of the Infinity Engine by Bioware and they reached agreement that all the inhabitants of the universe and began to bear the fruits of Fallout. And it was really good.
+
+On the fifth day I arrived, to reign, in the Baldur's Gate saga. We ran worlds aground. And it was too good.
+
+What we did not expect was that there would be a sixth day, which we should see the creation of a tool called IAP that made us tremble in our seats. And the experience continued through the IAP and a constant stream of mods that sprang up for our delight (especially Clan DLAN, who never stopped translating, heck!!!). And watching and enjoying the IAP, we thought it was good.
+
+The seventh day, of course, we had non-stop playthroughs, we're screwed... right through the eighth and ninth and... satisfied with what we had.
+
+Far from the whole story though, continuous and bad Champions of "The Quest". Men are flawed, and every time they had mods, they got bugs and it took a still longer time in locating and repairing them. Everything was adrift and chaotic without respite, and without hope, the global collapse was inevitable. But finally, in the Planescape book, we find innumerable prophets, multiplanar entities, who never stopped telling us about the coming of a Messiah, the Savior.
+
+Book of the Pentateuch (Planescape)
+
+The prophets, Neil and Theo, were stoned for praising the arrival of the one who would bring the light and hope (but they were not martyrs, they kept on giving war somewhere here, thanks to our Lord Weimer)
+
+The prophet, Jason Compton, also was beheaded... but did not care and continued programming... proclaiming the arrival of the Messiah, the Savior.
+
+The New Testament
+
+And then, in the 7th day of the year 49 was born, Wesley Weimer. He did not want to continue in the trade of his father, and soon he began to do miracles (we will look into them later). His faithful grew in number as his words were spread by the scribes and rabbis of the IAP, but soon he unveiled his word, which would bring love, health, and ultimately... mod paradise. It was WeiDU, they were no bugs, no incompatibilities and no lentils... everything was beautiful. Finally one was unable finding any error in the equation. The mods might multiply properously, and his disciples would give us the many Flirt Packs that many would later host.
+
+Play them in his name!!!
+
+Before leaving us (for love, for Kurro and all that) but not for long, he placed hand to his most beloved disciple... Mhoram. And he said, "Over these brows, I will build my Church. Take my word to every good Inquisitor and draw all heretics to a program by Jose Luis Moreno and may they burn."
+
+And that's the story, basically. Then we were joined by many for his cause, (Bhasbuto, Palafoxx, to name a few).
+
+This is the faith he preached.
+
+this is the Faith that we proclaim.
+
+[PS: The finished work shall only be distributed and sold by the order. With a free photo of Mhoram, meditating topless]
+
+(By Merlin)
+
+Annexure:
+
+From the Book of Immolation (Immortality's Revelation)
+
+And while the Church of Weimer flourished, the prophets Jason and Neil found a student in the distant lands of Baldur's Gate, and saw that it was good. She was was called Immortality and was the supreme ruler of a small kingdom in the northern lands called Dlan And with kind words, convinced her that WeiDU was well and good. And she responded, saying:
+
+"I'll have some of my subjects study this new faith"
+
+And it was in this way that the Saint Mhoram knew the True Faith, dragged by the Sacred and Almighty Immortality up to a place called IRC where the Prophet Jason was waiting for him, and taught him the Light of Weimer, and soon the only one entrusted to him the task of spreading his work in the lands of Spanish speech. And the Kingdom of Dlan was the first one to recieve the Light, and thanks to that, it turned into a shining example of the work and goodwill between his similar counterparts in distant lands and the innumerable works they realized under the Light. The Word of Weimer was translated, and many of his works were finally understood, as the WeiDU-Readme, for those of his prophets. As were the Flirt Packs, for so many others.
+
+And Weimer saw that it was good.
+
+(By Mhoram)~

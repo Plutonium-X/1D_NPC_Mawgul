@@ -1,0 +1,310 @@
+@9001 = ~[Uu]tilisable\([ %tab%]+[Ss]eulement\|[ %tab%]+[Uu]niquement\)?[ %tab%]+[Pp]ar[ %tab%]*:~
+@9002 = ~\([Nn]on[ %tab%]+\|[Ii]n\)[Uu]tilisable[ %tab%]+[Pp]ar[ %tab%]*:~
+@0 = ~PNJ Mawgul~
+@1 = ~Mawgul~
+@2 = ~Lorsque vous trouvez le temps de vous reposer, vous devenez curieux du passé de Mawgul. Vous voyez sur son visage quelque chose de rare pour un elfe... il est vieux, extrêmement vieux même pour un elfe. Vous respirez donc un grand coup et lui demandez de vous raconter sa vie. Sereinement, il vous regarde dans les yeux avec ses sourcils broussailleux et vous répond : "Il n'y a pas grand-chose à raconter". Vous vous demandez alors s'il est vraiment un elfe ou s'il s'agit d'autre chose. La magie de Heaum dont il est affublé ne répond pas à vos doutes mais les aggrave. Pourquoi Mawgul vous suit-il ? Pourquoi Heaum le laisserait-il être avec vous ? Vous vous rendez vite compte qu'il est inutile d'aller plus loin dans la réflexion, votre ascendance divine y est pour beaucoup et même Heaum a envoyé quelqu'un pour vous suivre...~
+@3 = ~Gollum~
+@4 = ~Brûleur de Mawgul~
+@5 = ~PARAMETRES :
+
+TAC0 : +5
+Dégâts : 1d10+3 + 2 point de dégâts de feu et 2 points de dégâts d'acide
+Type de dégâts : tranchant
+Poids : 3
+Facteur de vitesse : 1
+Type de compétence : katana
+Type : arme à 1 main
+Uniquement utilisable par :
+Neutre strict
+Guerrier/mage
+Elfe
+Demi-orque~
+@6 = ~Dague de pierre~
+@7 = ~Mawgul porte la dague de pierre selon lui pour surveiller sa balance.... Vous trouvez cette arme très inutile pour le combat mais Mawgul vous le reproche en vous disant qu'en réalité son utilité est d'être équipé pour ses bienfaits et non pour le combat.
+
+PARAMETRES :
+
+Dégâts : 1D4
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 2
+Type de compétence : dague
+
+Capacités d'équipement :
+  Vocaliser
+  Résistance à la magie : +15%
+  Temps d'incantation réduits de 3
+  
+Non utilisable par :
+  Clerc~
+@8 = ~Électrocuteur de Mawgul~
+@9 = ~PARAMETRES :
+
+TAC0 : +3
+Dégâts : 1d10+3 + 2 point de dégâts de froid et 2 points de dégâts d’électricité
+Type de dégâts : tranchant
+Poids : 3
+Facteur de vitesse : 1
+Type de compétence : katana
+Type : arme à 1 main
+Uniquement utilisable par :
+Neutre strict
+Guerrier/mage
+Elfe
+Demi-orque~
+@10 = ~Imperare lux ut saltare~
+@11 = ~C'est un artefact que Mawgul possède, selon lui pour veiller à l'équilibre...
+L'anneau connu sous le nom de Lumière dansante, également appelé Loupe solaire, est l'arme principale de Mawgul pour éliminer les créatures "MORTES".
+
+PARAMETRES :
+
+Capacités de charge
+  Rayon de soleil deux fois par jour
+  Aube Illusoire deux fois par jour
+
+Capacité d'équipement :
+  Classe d'armure : +2
+  Immunité au drain de niveau~
+@12 = ~Symbole sacré of Heaum~
+@13 = ~c'est un artefact que possède Mawgul et qui, selon lui, est un signe des Gardien de l'équilibre... 
+Selon Mawgul, les Mages de Heaum ne sont pas autorisés à utiliser ce symbole sacré. Ainsi, le fait qu'il l'obtienne malgré le fait qu'il soit un Mage, est pour lui la preuve que Heaum a confiance en sa dévotion.
+
+PARAMETRES :
+
+Capacité d'équipement :
+  Confère deux sorts mémorisables supplémentaires des niveaux 2 à 4
+  Sagesse : +2
+
+Uniquement utilisable par :
+  Mage
+  Elfe
+  Demi-orque~
+@14 = ~Marque du Magus~
+@15 = ~C'est un artefact que Mawgul possède, selon lui pour veiller à l'équilibre... 
+Quand on voit son armure La Marque du Magus, on a vraiment envie de la mettre car elle est très légère et selon Mawgul, quelqu'un (probablement lui) est entré dans un repaire de trolls et a enfermé le chef dans cette gemme avec un dweomer unique.
+
+PARAMETRES :
+
+Capacités d'équipement :
+  Classe d'Armure : -1 (-3 contre les projectiles, 1 contre les armes contondantes)
+  Régénération de 1 point de vie toutes les 3 secondes
+  N’empêche pas le lancement des sorts
+
+Non utilisable par :
+  Mage~
+@16 = ~Collier de déséquilibre magique~
+@17 = ~C'est un artefact que Mawgul possède, selon lui pour veiller à l'équilibre...
+C'est l'élément cloné de Mawgul par excellence. Il est dit que quelqu'un de très puissant (encore une fois, vous supposez que c'est lui) a réussi à couper un morceau d'une cape-miroir et à l'attacher à une amulette pour surveiller l'équilibre des fluctuations magiques néfastes qui sont renvoyées.
+
+PARAMETRES :
+
+Capacités d'équipement :
+  Renvoi des sorts qui infligent des dégâts.~
+@18 = ~Bouclier mental (parchemin)~
+@19 = ~C'est un artefact que Mawgul possède, selon lui pour veiller à l'équilibre...
+Un bout de papier est tout ce qui sépare l'inconnu de l'esprit mystérieux de Mawgul. Pensez-vous que le mal puisse avoir une chance de faire sortir l'information de l'esprit de Mawgul ?
+
+PARAMETRES :
+
+Capacités d'équipement :
+  Ce parchemin procure un bouclier mental
+  Immunité aux attaques mentales, à la confusion et à la domination~
+@20 = ~La cape de Valy-Gul, l'ancien enfant de Bhaal~
+@21 = ~C'est un artefact que Mawgul possède, selon lui pour veiller à l'équilibre...
+Au cours de ses voyages, un homme lui en a fait cadeau pour l'avoir sauvé d'une malédiction. Vous vous demandez quelle malédiction pourrait être si terrible pour que quelqu'un lui offre un objet aussi puissant. Lorsque vous posez à nouveau la question à Mawgul, il se dérobe.
+
+PARAMETRES :
+
+Capacités d'équipement :
+  Immunité aux armes non-magiques
+  Immunité contre le poison et la maladie~
+@22 = ~Le bras du guerrier~
+@23 = ~C'est un artefact que Mawgul possède, selon lui pour veiller à l'équilibre...
+
+Le bras est un mélange de plusieurs éléments mystiques et mécaniques. Sur le côté, on peut lire l'inscription "Mawgul Il-Khan".Mawgul, comme d'habitude, n'a pas envie d'en parler.
+
+PARAMETRES :
+
+Capacités d'équipement :
+TAC0 : +1
+Dégâts : +2
+Jets de sauvegarde : +2 
+
+Capacité de charge :
+   Hâte améliorée trois fois par jour~
+@24 = ~Ceinture de l'équilibre Heaumiste~
+@25 = ~C'est un artefact que Mawgul possède, selon lui pour veiller à l'équilibre...
+La ceinture est le plus puissant des objets de Mawgul. Il dit qu'elle l'aide à maintenir son propre équilibre intérieur, car Heaum veut qu'il continue à veiller sur tout Toril.
+
+PARAMETRES :
+
+Capacités d'équipement :
+  Bonus à la Classe d'Armure : +3 contre les armes tranchantes
+  Force : mise à 18
+  Constitution : mise à 18~
+@26 = ~Le Manuel du parfait voleur~
+@27 = ~Lorsque Robin, le hobbit, n'était pas encore en âge de diriger l'entreprise familiale, son grand-père Obilb lui écrivit dans un livre toutes les astuces pour détecter les pièges et crocheter les serrures. Malheureusement, il ne lui apprit pas à prendre soin de lui, car ce livre fut volé par un troll. Mawgul dit l'avoir retrouvé et le lui a racheté pour le prix très raisonnable de lui enseigner les arts magiques.
+
+Capacités de charge :
+  Déblocage et Détection des pièges à volonté~
+@28 = ~L'anneau unique~
+@29 = ~Il n'est pas très recommandé de le porter, mais si vous le frottez (comme une baguette), quelqu'un vous viendra en aide en cas de situation désespérée.~
+
+@31 = ~Nemesis +6~
+@32 = ~Cette épée date des temps anciens. Sa lame est en mithril pur et sa poignée est recouverte de la peau écailleuse d'un dragon noir. L'origine exacte de cette lame mystique n'est pas connue, mais elle est censée être l'une des créations d'Eöl, le Drow Transmutateur. 
+
+Comme son créateur supposé, votre résolution se remplit de haine lorsque vous contemplez l'épée. En l'approchant, votre main ressent le désir d'oublier à jamais tous les codes moraux.
+
+PARAMETRES :
+
+ Capacité de combat :
+  Dissipe la magie en touchant
+  
+Capacité de charge :
+  Hâte, Peau d'écorce et Invisibilité lancés en même temps une fois par jour
+  
+Capacités d'équipement :
+  Dextérité : +2
+  Constitution : -2
+  Charisme : -2
+  Fixe l'alignement du porteur sur Chaotique neutre
+  
+Spécial : enchantée +8
+
+Dégâts : 1d8+6
+TAC0 : +8
+Type de dégâts : tranchant
+Poids : 11
+Facteur de vitesse : 1
+Type de compétence : épée longue
+Type : arme à 1 main
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+@33 = ~Armure de Lum le Fou~
+@34 = ~L'écriture rapide et illisible de Lum ne permet pas de connaître les pouvoirs de cette armure, mais indique qu'elle intègre quelque chose de très puissant et de très dangereux.
+
+... 
+Qui est cette femme à l'avant qui possède à la fois la grande résistance magique
+et l'extraordinaire robustesse de son armure et qui lance les mêmes sorts que moi ?         Lum 
+...
+Et Ray brisa le miroir et la femme disparut...
+...~
+
+@35 = ~Livre d'instructions spéciale Édition + Échantillons gratuits : 3 façons simples de tuer un dragon.~
+@36 = ~Ce livre contient de nombreuses techniques faciles à mettre en œuvre pour relever rapidement les nombreux défis qui nous attendent à Faerûn.
+
+Par exemple, pour vaincre une liche, lancez simultanément deux rayons de soleil à proximité.
+
+Pour se débarrasser d'un prince démon, lancez constamment Brèche et Perce bouclier et rassemblez tous les combattants pour une fin en apothéose.
+
+La meilleure technique d'attaque contre les Trolls géants, et de loin, est d'avoir deux personnes ayant une immunité au feu. Envoyez-les ensuite se battre contre le Troll, tandis qu'un mage et un clerc peuvent lancer des boules de feu et des tempêtes de feu sans crainte.
+
+Ce livre inclut trois échantillons gratuits pour tuer un dragon avec un sort spécial (fonctionne dans 66% des cas vérifiés par Dragon Slayer & Assoc.).~
+@37 = ~Genèse +5~
+@38 = ~Cette épée vient de l'époque actuelle. Sa lame est en mithril pur et sa poignée est recouverte de la peau soyeuse d'une nymphe blanche. On pense qu'il s'agit d'une copie inversée de la Némésis. Tout comme son épée sœur, la lame est pleine de mystère. Cependant, contrairement à son homologue, son pouvoir est dans la défense et non dans l'attaque.
+
+PARAMETRES :
+
+Capacité de charge :
+  Flou, Image miroir, Peau de pierre et bouclier de feu (bleu) lancés en même temps trois fois par jour
+  Protection contre les armes magiques une fois par jour
+  
+Capacités d'équipement :
+  Constitution : +2
+  Charisme : +2
+  Dextérité : -2
+  
+Spécial : enchantée +6
+
+TAC0 : +5
+Dégâts : 1d8+5
+Type de dégâts : tranchant
+Poids : 11
+Facteur de vitesse : 1
+Type de compétence : épée longue
+Type : arme à 1 main
+
+Utilisable par :
+  Mage~
+@39 = ~Les SAINTES ÉCRITURES de WEIMER~
+@40 = ~Les SAINTES ÉCRITURES de WEIMER (Tremblez hérétiques)
+
+Ce sont les plus puissantes jamais écrites.
+
+Lorsqu'on l'ouvre, on constate que chaque page contient un seul sort (illimité) que tout le monde peut lancer une fois par jour. Vous pouvez également tourner le pages et avoir accès aux autres sorts mais sans possibilité de revenir en arrière.
+
+Les sorts que vous pouvez trouver sont les suivants :
+  Colonne de feu
+  Sanctuaire
+  Apaisement
+  Sainte punition
+  Soin des blessures critiques
+  Peaux de fer
+  Convocation de Déva
+  Zone d'air pur
+  Rayon divin
+  Lame enflamée
+
+Le vieux prêtre s'assit sur la chaise et regarda les jeunes gens qui s'étaient rassemblés autour de lui, impatients d'écouter, et tandis qu'ils étaient assis, il dit : "Asseyez-vous, jeunes élèves, et écoutez la sagesse du passé de la bouche des sages anciens, écoutez l'histoire de la création du monde...".
+
+L'Ancien Testament : Genèse
+
+"Quand il n'y avait que le Néant, le premier jour, J.R.R.Tolkien décida de créer l'univers du "Seigneur des Anneaux". Et il vu que c'était bien.
+
+Le deuxième jour, Les Wizards of the Coast, pour régir cet univers, créèrent les règles de Donjons et Dragons... et ils ont vu qu'elles étaient bonnes.
+
+Le troisième jour, quelques messieurs à lunettes et à pull-over ont peuplé l'univers de grandes sagas : The Elder Scrolls, Ultima, The Dragon Lore, Might & Magic... et ils ont vu qu'elles étaient TRES bonnes.
+
+Le quatrième jour a été celui de la technologie. Bioware a créé un moteur appelé Infinity engine qui rassembla tous les habitants de l'univers et commença à faire fructifier les fruits de Fallout. Et il était vraiment bon.
+
+Le cinquième jour est venu régner en maître la saga Baldur's Gate. Nous sommes restés sans voix. C'était tellement plus que bien.
+
+Ce à quoi nous ne nous attendions pas, c'est qu'il y aurait un sixième jour, où nous verrions un outil appelé IAP nous faire trembler sur nos sièges. L'expérience s'est poursuivie et grâce à IAP, des mods de plus en plus nombreux sont apparus pour notre plus grand plaisir ((surtout ceux du clan DLAN, qui n'ont jamais cessé de traduire, bon sang ! !!)
+
+Le septième jour, bien sûr, on l'a passé à jouer non-stop, ça nous a foutu en l'air... et le huitième et le neuvième et le... satisfaits de ce que nous avions.
+
+Loin de se terminer ici, l'histoire s'est poursuivie, et pour le pire <musique de "The Mission">.
+Les hommes sont devenus imparfaits, les mods de plus en plus bogués, et il a fallu encore plus de temps pour les localiser et les réparer. Tout partait à vau-l'eau, dans le chaos, sans rémission et sans espoir, l'effondrement global était inévitable. Mais enfin, dans le Livre du Pentateuque, nous trouvions d'innombrables prophètes multiplanaires qui ne cessaient de nous annoncer la venue d'un Messie, le Sauveur.
+
+Livre du Pentateuque (Planescape)
+
+Les prophètes Neil et Theo ont été lapidés pour avoir loué la venue de celui qui apporterait la lumière et l'espoir. (mais ils n'ont pas été martyrs, ils sont toujours en guerre ici, grâce à notre M. Weimer).
+
+Le prophète Jason Compton a lui aussi été décapité... mais il s'en moquait et continuait à programmer... je veux dire à proclamer la venue du bon Sauveur.
+
+---
+
+NOUVEAU TESTAMENT
+
+Et voici que dans l'embrasure d'une porte, au coin de la 7e et de la 49e, naît Wesley Weimer. Il ne voulut pas faire le métier de son père et commença rapidement à faire des miracles (nous y reviendrons).
+Il ne voulut pas faire le métier de son père et commença bientôt à faire des miracles (nous y reviendrons plus tard). Il grandit dans la foi transmise par les scribes et les rabbins de l'IAP, mais bientôt il prêcha sa parole, qui apporterait l'amour, la santé, le paradis. C'était WeiDU, plus de bugs, plus d'incompatibilités, plus de lentilles, tout était beau. Enfin n'importe quel bug pouvait être trouvé par un tri. Les mods pouvaient se multiplier et ses disciples nous donnèrent les Flirt Packs qui sont là, Bon sang de bonsoir.
+
+Jouez-les en commémoration de lui !!!!
+
+Avant de nous quitter (la copine, le boulot et j'en passe) et pas pour longtemps, il a touché de la main son disciple le plus aimé... Mhoram. Et il lui dit : "Sur ces arcades, je bâtirai mon Église. Porte ma parole à tout bon inquisiteur et traîne les hérétiques au spectacle de José Luis Moreno et qu'ils brûlent".
+
+Et c'est en gros l'histoire. Ensuite, beaucoup d'autres ont rejoint sa cause (Bhasbuto, Palafoxx, pour n'en citer que quelques-uns) et c'est ainsi que nous en sommes arrivés là.
+
+C'est la foi que nous proclamons.
+
+[L'œuvre complète sera en vente sur commande. En cadeau, une photo de
+Mhoram sains nus dédicacée].
+
+(Par Merlin)
+
+Annexe 
+Extrait du Livre de l'immolation (Révélations de l'Immortelle)
+
+Alors que l'Église de Weimer grandissait, les prophètes Jason et Neil trouvèrent une élève dans les terres lointaines de Baldur's Gate, et ils virent qu'elle était bonne. Elle s'appelait Immortality et était la souveraine suprême d'un petit royaume en expansion appelé Dlan. Et avec des mots gentils, ils l'ont convaincue que WeiDu était bon, et elle a répondu en disant
+
+"Je demanderai à certains de mes sujets d'étudier cette nouvelle foi."
+
+
+Et c'est ainsi que le saint Mhoram connut la vraie foi, attiré par la sacrée et toute-puissante immortality jusqu'à un lieu appelé IRC où l'attendait le Prophète Jason, qui lui enseigna la Lumière de Weimer, et peu de temps après, il lui confia la tâche de répandre son œuvre dans les pays de langue espagnole. Le royaume de
+Dlan fut le premier à recevoir la Lumière, et grâce à cela, il devint un exemple de travail et de bonnes actions parmi ses semblables, et d'innombrables œuvres ont été réalisées sous la lumière. La parole de Weimer a été traduite, et beaucoup de ses œuvres furent enfin connues, comme le WeiDU-Readme, ou celles de ses prophètes, comme les Flirt Packs, et tant d'autres.
+
+Et Weimer vit qu'il était bon.
+
+(Par Mhoram)~

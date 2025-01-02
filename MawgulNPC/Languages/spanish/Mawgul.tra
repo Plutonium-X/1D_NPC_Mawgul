@@ -1,0 +1,43 @@
+@0    = ~Hola. Decidme por favor si habéis visto a <CHARNAME> pues ando tras su pista.~
+@1    = ~Soy yo.~
+@2    = ~No, no lo he visto~
+~No, no la he visto~
+@3    = ~Iros de aquí. No me molestéis~
+@4    = ~Ahh. Así que vos sois el pupilo de Gorion y uno de los hijos de Bhaal.~
+~Ahh. Así que vos sois la pupila de Gorion y una de las hijas de Bhaal.~
+@5    = ~Shhh... no es necesario decirlo tan alto.~
+@6    = ~Si. Ese soy yo. Quién pregunta.~
+~Si. Esa soy yo. Quién pregunta.~
+@7    = ~Perdón por mi torpeza... pero estoy algo agotado se tanto buscaros.~
+@8    = ~Ya sabéis quien soy ahora decidme quien sois vos.~
+@9    = ~Estáis perdonado. Decidme, ¿quién sois?~
+@10   = ~Soy Mawgul Girazlae, Mago de Yelmo, Vigilante del Equilibrio, y un elfo.~
+@11   = ~Mawgul... No reconozco ese nombre.~
+@12   = ~Yo pensaba que solo habia sacerdotes de Yelmo.~
+@13   = ~No parecéis un elfo... parecéis mas un drow.~
+@14   = ~¿Qué es un Vigilante del Equilibrio?~
+@15   = ~A ver... Me conocen como Maurolindorul entre los elfos, como Mauro-Larkan entre los enanos, soy Raukcul para los orcos, aunque los hombres me llaman Mauricio o Mauro. Solamente mis superiores me llaman Mawgul. Vos podéis llamarme Mauro si preferís un tono mas amigable.~
+@16   = ~¿Qué deseáis de mí, Mauro?~
+@17   = ~Pues los hay y aunque somos pocos somos elegidos por nuestra fe y habilidades.~
+@18   = ~Somos los encargados de servir en favor de lo que dicte nuestra conciencia y corazon, Yelmo confia en nuestro Juicio.~
+@19   = ~Drow... No, no lo soy ni los persigo, soy solamente algo viejo.~
+@20   = ~¿Qué deseáis de mí, Mawgul?~
+@21   = ~Yo os buscaba, me fue confiada una misión. Acompañar a <CHARNAME> y ayudarle todo lo posible hasta que alguno de los dos decida serparase del otro.~
+@22   = ~¿Por qué Yelmo me envia un vigilante?~
+@23   = ~Iros de aqui. No me molestéis más.~
+@24   = ~Desconozco vuestras razones. ¿Me llevaríais con vos? Tengo valiosos artefactos que con gusto os prestaré si unimos fuezas.~
+@25   = ~Por supuesto que quiero vuestra ayuda, parecéis estar echo de fibra dura.~
+@26   = ~No por el momento. Pero esperad aqui un tiempo.~
+@27   = ~Espero que estéis tomando la decision correcta.~
+@28   = ~Veo que habéis vuelto, amigo mio.~
+~Veo que habéis vuelto, amiga mio.~
+@29   = ~Si por favor, uníos a mí.~
+@30   = ~Si, pero no he venido por vos todavía.~
+@31   = ~No hay problema, os esperaré un tiempo más hasta que toméis la desicion correcta.~
+@32   = ~Parece que nos separaremos por un tiempo mi amigo.~
+~Parece que nos separaremos por un tiempo mi amiga.~
+@33   = ~No, no todavía. Seguid con nosotros.~
+@34   = ~Asi me temo. Esperadnos aqui un tiempo.~
+@35   = ~Volveremos a estar juntos por lo visto.~
+@36   = ~Vámonos, tenemos mucho que hacer.~
+@37   = ~No, todavía no.~

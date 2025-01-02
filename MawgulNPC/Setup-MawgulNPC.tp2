@@ -1,0 +1,169 @@
+BACKUP ~MawgulNPC/backup~
+AUTHOR ~Maurounplugged@hotmail.com~
+
+VERSION ~v2.3~
+
+README ~MawgulNPC/README-Mawgul.txt~
+
+ALWAYS
+ ACTION_DEFINE_ARRAY tra_reload BEGIN setup END
+ LAF HANDLE_CHARSETS
+ INT_VAR
+ infer_charset = 1
+ STR_VAR
+ tra_path = EVAL ~%MOD_FOLDER%/Languages~
+ reload_array = tra_reload
+ END
+ END
+
+AUTO_TRA ~MawgulNPC/Languages/%s~
+
+LANGUAGE ~Spanish~
+				 ~spanish~
+				 ~MawgulNPC/Languages/spanish/setup.tra~
+
+LANGUAGE ~English~
+				 ~english~
+				 ~MawgulNPC/Languages/english/setup.tra~
+
+LANGUAGE ~Italian~
+				 ~italian~
+				 ~MawgulNPC/Languages/italian/setup.tra~
+				 
+LANGUAGE ~French~
+				 ~french~
+				 ~MawgulNPC/Languages/french/setup.tra~
+				 			 
+				 
+BEGIN @0
+
+INCLUDE ~MawgulNPC/gw_functions.tpa~
+
+COPY ~MawgulNPC/Mauro.cre~ ~override/Mauro.cre~
+ SAY NAME1 @1
+ SAY NAME2 @1
+ SAY BIO  @2
+ 
+ ACTION_IF GAME_IS ~TOB BGT~ THEN BEGIN 
+COPY    ~MawgulNPC/Portraits~      ~override~
+        ~MawgulNPC/Portraits~      ~portraits~
+END
+ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN 
+COPY    ~MawgulNPC/PortraitsEE~   ~override~
+END
+
+COPY ~MawgulNPC/Maugol.cre~ ~override/Maugol.cre~
+ SAY NAME1 @3
+ SAY NAME2 @3
+
+COPY ~MawgulNPC/Mau001.itm~ ~override/Mau001.itm~
+ SAY NAME1 @4
+ SAY NAME2 @4
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@5" END
+
+COPY ~MawgulNPC/Mau002.itm~ ~override/Mau002.itm~
+ SAY NAME1 @6
+ SAY NAME2 @6
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@7" END
+
+COPY ~MawgulNPC/Mau003.itm~ ~override/Mau003.itm~
+ SAY NAME1 @8
+ SAY NAME2 @8
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@9" END
+ 
+COPY ~MawgulNPC/Mau004.itm~ ~override/Mau004.itm~
+ SAY NAME1 @10
+ SAY NAME2 @10
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@11" END
+
+COPY ~MawgulNPC/Mau005.itm~ ~override/Mau005.itm~
+ SAY NAME1 @12
+ SAY NAME2 @12
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@13" END
+
+COPY ~MawgulNPC/Mau006.itm~ ~override/Mau006.itm~
+ SAY NAME1 @14
+ SAY NAME2 @14
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@15" END
+
+COPY ~MawgulNPC/Mau007.itm~ ~override/Mau007.itm~
+ SAY NAME1 @16
+ SAY NAME2 @16
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@17" END
+
+COPY ~MawgulNPC/Mau008.itm~ ~override/Mau008.itm~
+ SAY NAME1 @18
+ SAY NAME2 @18
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@19" END
+
+COPY ~MawgulNPC/Mau009.itm~ ~override/Mau009.itm~
+ SAY NAME1 @20
+ SAY NAME2 @20
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@21" END
+
+COPY ~MawgulNPC/Mau011.itm~ ~override/Mau011.itm~
+ SAY NAME1 @22
+ SAY NAME2 @22
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@23" END
+
+COPY ~MawgulNPC/Mau012.itm~ ~override/Mau012.itm~
+ SAY NAME1 @24
+ SAY NAME2 @24
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@25" END
+
+COPY ~MawgulNPC/MauE01.itm~ ~override/MauE01.itm~
+ SAY NAME1 @26
+ SAY NAME2 @26
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@27" END
+
+COPY ~MawgulNPC/MauE02.itm~ ~override/MauE02.itm~
+ SAY NAME1 @28
+ SAY NAME2 @28
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@29" END
+
+/*COPY ~MawgulNPC/MauE03.itm~ ~override/MauE03.itm~
+ SAY NAME1 ~~
+ SAY NAME2 ~~
+ SAY DESC ~~*/
+
+COPY ~MawgulNPC/MauE04.itm~ ~override/MauE04.itm~
+ SAY NAME1 @31
+ SAY NAME2 @31
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@32" END
+COPY ~MawgulNPC/MauE05.itm~ ~override/MauE05.itm~
+ SAY NAME1 @33
+ SAY NAME2 @33
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@34" END
+
+COPY ~MawgulNPC/MauE06.itm~ ~override/MauE06.itm~
+ SAY NAME1 @35
+ SAY NAME2 @35
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@36" END
+COPY ~MawgulNPC/MauE07.itm~ ~override/MauE07.itm~
+ SAY NAME1 @37
+ SAY NAME2 @37
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@38" END
+
+COPY ~MawgulNPC/Mauwei.itm~ ~override/Mauwei.itm~
+ SAY NAME1 @39
+ SAY NAME2 @39
+ LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@40" END
+
+COPY ~MawgulNPC/Mauwe~ ~override~
+
+
+COMPILE ~MawgulNPC/Mawgul.d~
+
+COPY ~MawgulNPC/Mauro.bcs~ ~override/Mauro.bcs~
+
+EXTEND_BOTTOM ~AR0512.bcs~ ~MawgulNPC/MauroAG.bcs~
+
+APPEND ~pdialog.2da~
+~Mawgul MawgulP MawgulJ MawgulD~
+UNLESS ~Mawgul~
+UNLESS ~25POST~
+
+APPEND ~pdialog.2da~
+~Mawgul MawgulP MawgulJ MawgulD Mawgul25P Mawgul25J Mawgul25D Mawgul25~
+UNLESS ~Mawgul~
+IF ~25POST~

@@ -1,0 +1,296 @@
+@0 = ~Mawgul NPC~
+@1 = ~Mauro~
+@2 = ~Appena hai un momento per chiedere il passato all'enigmatico MAURITIUS, vedi nel suo viso qualcosa di insolito per un elfo... é vecchio, molto vecchio anche per un elfo. Poi prendi un po' di coraggio e gli domandi di parlarti un po' della sua vita. Con calma lui ti guarda negli occhi con le sue folte sopracciglia e ti risponde, "Non c'è molto da dire". Poi ti domandi se lui sia veramente un elfo o qualcosa di diverso. Lui rimane in piedi, il Mago di Helm non fornisce risposte alla tua domanda, anzi ti fa aumentare i dubbi. Che motivi ha Mauro di seguirti? Perché non é rimasto con i servitori di Helm? Presto ti rendi conto che non serve a nulla pensarci, sicuramente c'entra molto la tua discendenza divina ed Helm potrebbe averti inviato qualcuno per controllarti...~
+@3 = ~Gollum~
+@4 = ~Katana: La Fornace di Mawgul~
+@5 = ~STATISTICHE:
+
+THAC0: +3
+Danno: 1d10+3 + 2 di danno da Fuoco e da Acido
+Tipo di danno: Tagliente
+Peso: 3
+Fattore velocità: 1
+Competenza: Katana
+Tipo: ad una mano
+Non utilizzabile da:
+  Chierico
+  Mago
+  Ladro~
+@6 = ~Pugnale di Pietra~
+@7 = ~Il Pugnale di Pietra di Mauro é il simbolo di un Sostenitore dell'Equilibrio... Trovi questo tipo di armi alquanto inutili per combattere ma Mauro non é d'accordo, ti dice che la loro utilità é in ciò che queste armi forniscono e non nei danni che procurano.
+
+STATISTICHE:
+
+Danno: 1D4
+Tipo di danno: Perforante
+Peso: 1
+Fattore velocità: 2
+Competenza: Spada Piccola
+
+Mentre equipaggiata:
+  Vocalizzazione
+  Resistenza Magica +15%
+  Riduce il tempo di lancio degli Incantesimi di 3
+  
+Non utilizzabile da:
+Chierico~
+@8 = ~Katana: La Fulminatrice di Mawgul~
+@9 = ~STATISTICHE:
+
+THAC0: +3
+Danno: 1d10+3 + 2 di danno da Freddo ed Elettrico
+Tipo di danno: Tagliente
+Peso: 3
+Fattore velocità: 1
+Competenza: Katana
+Tipo: ad una mano
+Non utilizzabile da:
+  Chierico
+  Mago
+  Ladro~
+@10 = ~La Luce Danzante~
+@11 = ~Questo é un artefatto che possiede Mauro, è uno dei simboli dei Sostenitori dell'Equilibrio... Il famoso anello, la Luce Danzante, chiamato anche  the Magnifico Vetro Solare é l'arma principale che sceglie Mauritius per eliminare i Non Morti.
+
+STATISTICHE:
+
+Abilità speciali:
+  Lancia Raggio di Sole (due volte al giorno)
+	Lancia Finta Alba (due volte al giorno)
+
+Mentre indossato
+  Immunità al Risucchio di Livello
+
+Utilizabile da:
+  Tutti~
+@12 = ~Simbolo Sacro di Helm~
+@13 = ~Questo é un artefatto che possiede Mauro, è uno dei simboli dei Sostenitori dell'Equilibrio... Solo a Mauro, tra i Maghi di Helm, é permesso utilizzare questo Simbolo Sacro. Perciò Mauro lo considera una prova della fiducia che Helm ha riposto nei suoi confronti.
+
+STATISTICHE:
+
+Abilità speciali:
+  Fornisce due incantesimi supplementari di livello 2, 3 e 4
+  Aumenta la Saggezza di 2
+
+Utilizzabile da:
+  Mago~
+@14 = ~Simbolo dei Maghi~
+@15 = ~Questo é un artefatto che possiede Mauro, e lo utilizza per controllare l'equilibrio... 
+
+Quando vedi il Simbolo dei Maghi, senti improvvisamente l'impulso di indossarla. E' molto leggera e secondo quello che dice Maurilondin, qualcuno (probabilmente lui) è entrato in una tana di Troll ed ha intrappolato il loro capo in una gemma con un incantesimo irripetibile. In questa armatura c'é una gemma che conferisce bonus a chi indossa quest'armatura.
+
+STATISTICHE:
+
+Abilità speciali:
+  CA: -1
+  Rigenera 1 punto ogni 3 secondi
+
+Utilizzabile da:
+  Mago
+  Druido
+  Monaco~
+@16 = ~Amuleto dello Squilibrio~
+@17 = ~Questo é un artefatto che possiede Mauro, e lo utilizza per controllare l'equilibrio...
+
+Mawgul é estremamente abile a lavorare gli elementi. Lui dice che qualcuno che possiede un grande potere (molto probabilmente lui) ha preso un frammento di uno Specchio di Opposizione e lo ha attaccato ad un Amuleto dell'Equilibrio per controllare le fluttuazioni ed invertire le magie dannose.
+
+STATISTICHE:
+
+Abilità speciali:
+  Riflette tutti i danni degli incantesimi dannosi restituendoli a chi li ha lanciati
+  Include gli incantesimi offensivi come Dardo incantato, ma non incantesimi come Charme e Bloccapersone~
+@18 = ~Scudo Mentale (Pergamena)~
+@19 = ~Questo é un oggetto che possiede Mauro, per controllare l'equilibrio...
+
+Un pezzo di carta é tutto quello che si interpone tra l'illecito e la misteriosa mente di Mawgul. Credi che anche il male potrebbe avere una parte nella informazioni provenienti dalla mente di Maurilondin.
+
+STATISTICHE:
+
+Abilità speciali:
+  Questa pergamena fornisce uno Scudo Mentale
+  Il possessore è immune agli attacchi psionici, alla confusione ed al dominio~
+@20 = ~Il Mantello di Valy-Gul, la Mano Destra di Bhaal~
+@21 = ~Questo é un oggetto che possiede Mauro, per controllare l'equilibrio...
+
+Durante i suoi viaggi, un uomo regalò a Mauro questo oggetto per salvarlo da una maledizione. Tempo dopo, l'uomo pensò che sarebbe stato terribile per chiunque possedere un oggetto così potente. Quando gli chiedi cosa successe poi, Mauro rimane molto vago.
+
+STATISTICHE:
+
+Abilità speciali:
+  Questo mantello fornisce l'energia necessaria per annullare i danni provocati dalle armi normali
+  Chi lo indossa é immune al veleno ed alla malattia~
+@22 = ~Il Braccio del Guerriero~
+@23 = ~Questo é un oggetto che possiede Mauro, per controllare l'equilibrio...
+
+Il braccio é un misto di molti elementi mistici e meccanici. Al suo lato, c'é un'iscrizione dove si legge, 'Mauro Il-Khan'. Mauritius, come sempre, non dice nulla in merito.
+
+STATISTICHE:
+
+THAC0 Bonus: +1
+Bonus al danno: +2
+Tiri Salvezza: +2
+
+Abilità speciali:
+  Velocità Migliorata 3 volte al giorno~
+@24 = ~Cintura dell'Equilibrio di Helm~
+@25 = ~Questo é un artefatto che possiede Mauro, per controllare l'equilibrio...
+
+Questa cintura é uno dei più potenti artefatti che possiede Mawgul. Lui sostiene che lo aiuta a mantenere il suo stesso equilibrio interno. Crede che Helm osserva tutta Toril per mezzo di questa cintura.
+
+STATISTICHE:
+
+Abilità speciali:
+  Bonus di +3 alla Classe Armatura contro danni Taglienti
+  Forza portata a 18
+  Costituzione portata a 18~
+@26 = ~Il Manuale dei Ladri~
+@27 = ~Quando Robin lo Hobbit stava per diventare adulto, c'erano ancora molti dubbi se fosse in grado o meno di gestire gli affari di famiglia. Allora suo nonno, Obilb scrisse questo libro dove si parlava, nel dettaglio, di tutti i trucchi per individuare le trappole e scassinare. Purtroppo Robin non potè imparare nulla perché il libro fu rubato da alcuni gnomi. Mauro dice che trovò ed 'acquistò' questo libro ad un prezzo ragionevole affinché lo aiutasse nelle arti della magia.
+
+Abilità speciali:
+  Lancia Scassinare e Individuare Trappole quando il possessore lo desidera~
+@28 = ~L'Anello Unico~
+@29 = ~E' altamente raccomandato non indossarlo ma se lo strofini, (come una lampada) qualcuno verrà ad aiutarti~
+
+@31 = ~Nemesi +6~
+@32 = ~Questa é una spada dei Tempi Antichi. La sua lama è di mithril puro e la sua elsa é ricoperta dalla pelle squamosa di un Drago Nero. Le origini esatte di questa misteriosa lama non si conoscono ma si suppone sia una delle creazioni di Eöl, il Drow Trasmutatore. 
+
+Come si ritiene fosse il suo creatore anche il tuo animo diventa pieno di odio guardando questa spada. Quando ti avvicini a lei, le tue mani sentono il desiderio di dimenticare per sempre tutte le virtù morali ed il codice etico.
+
+STATISTICHE:
+
+Abilità speciali:
+  Lancia Velocità, Pelle coriacea e Invisibilità tutto in una volta
+  Dissipa tutte le difese magiche ad ogni colpo riuscito
+  La Costituzione diminuisce di -2
+  La Destrezza aumenta di +2
+  Brandendo questa spada, colui che la utilizza cambia permanentemente il suo allineamento a Caotico Neutrale ed il suo Carisma viene abbassato di -2
+
+THAC0: +6
+Danno: 1d8+6
+Tipo di danno: Tagliente
+Peso: 11
+Fattore velocità: 1
+Competenza: Spada Lunga
+Tipo: ad una mano
+Non utilizzabile da:
+  Chierico
+  Druido
+  Mago~
+@33 = ~Armatura di Lum il Folle~
+@34 = ~La scrittura veloce e illeggibile di Lum non ti permette di sapere che tipo di poteri fornisce questa armatura ma ti dice che possiede qualcosa di molto potente e pericoloso.
+
+... 
+Non so chi sia quella donna di fronte a me che possiede sia la resistenza alla potente magia che la robustezza straordinaria nella sua armatura e che può lanciare i miei stessi incantesimi
+          Lum 
+...
+Ed il Raggio ruppe lo specchio e la donna scomparve...
+...~
+@35 = ~Libro delle Istruzioni: Edizione Gratuita Semplice + 3 Metodi Facili per uccidere un Drago.~
+@36 = ~Questo libro contiene molte tecniche semplici per rendere facili molte sfide che ti attendono a Faerûn.
+
+Ad esempio, come sconfiggere un lich lanciando simultaneamente due Raggi di Sole nelle vicinanze.
+
+Per disfarsi di un Principe dei Demoni, lanciando Breccia e Perforare Magia continuamente e per finire bloccare tutti i combattenti insieme.
+
+La tecnica migliore contro le aggressioni dei Troll Giganti, è di possedere due compagni con l'immunità al fuoco. Poi mandarli in battaglia contro i Troll, mentre un mago ed un chierico gli lanciano intrepidamente Palle di Fuoco e Tempeste di Fuoco.
+
+Questo libro include tre chiari esempi gratuiti per uccidere un drago con un incantesimo speciale (funziona per il 66% delle volte, verificato dagli Uccisori di Draghi & Assoc.)~
+@37 = ~Genesi +5~
+@38 = ~Questa è una spada dei Giorni d'Oggi. La sua lama è di mithril puro e la sua elsa é ricoperta dalla pelle setosa di una Ninfa Bianca. Si crede sia una copia invertita della Nemesi. Come la sua spada sorella, la lama é piena di mistero. Sebbene sia diversa dalla sua controparte, i suoi poteri sono difensivi e non offensivi.
+
+STATISTICHE:
+
+Abilità speciali:
+  Lancia Sfocatura, Immagini Illusorie, Pelle di Pietra e Scudo di Fuoco (blu) insieme tre volte al giorno.
+  Permette al possessore l'immunità alla magia una volta al giorno
+  Costituzione aumentata di +2
+  Destrezza diminuita di -2
+  Carisma aumentato di +2
+
+THAC0: +5
+Danno: 1d8+5
+Tipo di danno: Tagliente
+Peso: 11
+Fattore velocità: 4
+Competenza: Spada Lunga
+Tipo: ad una mano
+
+Utilizzabile da:
+  Mago (specializzato o multiclasse)~
+@39 = ~Sacre Scritture di Weimar~
+@40 = ~Sacre Scritture si Weimar (Tremito degli Eretici)
+
+Questo é il libro più potente che sia mai stato scritto.
+
+Quando apri questo libro, noti che ogni pagina contiene un unico (ed illimitato) incantesimo che ognuno può lanciare. Puoi anche girare la pagina ed ottenere l'accesso agli altri incantesimi ma senza poi avere la possibilità di ritornare alla pagina precedente.
+
+Gli incantesimi che puoi trovare sono:
+  Colonna di Fuoco
+  Santuario
+  Scaccia paura
+  Sacra Punizione
+  Cura ferite critiche
+  Pelle di Ferro
+  Evocare Deva
+  Zona d'Aria Fresca
+  Scarica di Gloria
+  Lama fiammeggiante
+
+Il libro é molto grande e pieno di passaggi sapienti. Eccone alcuni:
+
+L'anziano sacerdote si sedette sulla sedia e volse lo sguardo in direzione dei giovani che si raccoglievano intorno a lui, desiderosi di ascoltare e mentre anche loro si sedevano, lui disse, "Sedete, giovani discepoli ed ascoltate la saggezza del passato dalle labbra di uno degli anziani più saggi, ascoltate la storia della creazione del mondo...
+
+Il Vecchio Testamento: La Genesi
+
+"Quando c'era solo il Vuoto, nel primo giorno, J.R.R.Tolkien decise di creare l'universo del "Signore degli Anelli". E vide che era una cosa buona.
+
+Il secondo giorno creò The Wizards of the Coast, per governare l'universo, che portò alla luce le regole di Dungeons & Dragons ... e vide che tutto ciò era buono.
+
+Il terzo giorno, alcuni uomini con occhiali e maglietta provenienti dai college, popolarono l'universo e crearono le grandi saghe come 'The Elder Scrolls', 'Ultima', 'The Dragon Lore', 'Might & Magic'... e videro che tutto ciò era molto buono.
+
+Il quarto giorno, ci fu la creazione dell'Infinity Engine della Bioware che mise d'accordo tutti gli abitanti dell'universo ed iniziò a dare i suoi frutti con Fallout. E vide che tutto ciò era davvero una buona cosa.
+
+Il quinto giorno arrivò, a regnare, la saga di Baldur's Gate. Tutti rimasero senza parole. Ed anche tutto ciò vide che era buono.
+
+Quello che non si sperava fu che il sesto giorno, si vide la creazione di uno strumento chiamato IAP che sbalordì tutti. Tutti diventarono esperti dell'IAP e ne uscì una continua creazione di mod, per la nostra grande gioia (soprattutto da parte del Clan DLAN, che non smise mai di tradurre, diamine!!!). Osservando e apprezzando l'IAP, si pensò che era una buona cosa.
+
+Il settimo giorno, naturalmente, non si fermò nessuno dal giocare, si era soddisfatti... anche l'ottavo ed il nono giorno e... si era contenti di quello che si aveva.
+
+La storia non finì qui, si continuò a giocare e uscirono fuori anche dei cattivi creatori di "Quest". Gli uomini si viziarono, ogni volta volevano un mod, con l'andare del tempo però si ottennero dei bug e si perse molto tempo a localizzarli ed a ripararli. Tutto stava finendo nel caos senza speranza, il crollo totale era inevitabile. Ma la speranza tornò quando nel libro di Planescape, si trovarono innumerevoli profeti, entità multiplanari, che non finirono mai di profetizzare la venuta di un Messia, del Salvatore.
+
+Libro del Pentateuco (Planescape)
+
+I profeti, Neil e Theo, furono presi a sassate per aver elogiato l'arrivo di qualcuno che avrebbe portato la luce e la speranza (ma non furono martirizzati, continuarono nella loro missione, grazie al nostro Signore Weimer)
+
+Anche il profeta, Jason Compton, fu preso a male parole... ma non se ne curò e continuò a programmare... proclamando l'arrivo del Messia, il Salvatore.
+
+Il Nuovo Testamento
+
+Poi, il settimo giorno dell'anno 49 nacque Wesley Weimer. Non volle continuare l'attività di suo padre, e presto iniziò a fare dei miracoli (ci si addentrerà su questo argomento più avanti). I suoi seguaci crebbero di numero poiché le sue parole furono diffuse degli scribi e dai rabbini dell'IAP, ma presto la sue parole furono svelate e portarono amore, salute, e infine lui... ci portò il paradiso dei mod. Creò WeiDU, non aveva bug, nessuna incompatibilità e nessuna imperfezione... tutto era bello. Finalmente in grado di trovare errori nelle equazioni. I mod si poterono moltiplicare in modo prosperoso, ed i suoi discepoli ci diedero molti Flirt Packs che molti avrebbero più tardi ospitato.
+
+Giocaci nel suo nome!!!
+
+Infine (per amore, per Kurro e per tutto il resto) ma non per molto, posò le sue mani sulla spalla del suo discepolo più diletto... Mhoram. E disse, "Qui sopra costruirò la mia Chiesa. Porta le mie parole ad ogni buon Inquisitore e trascina gli eretici al programma di Jose Luis Moreno e possano loro così bruciare".
+
+Questa é la storia, a grandi linee. Poi molti seguirono la sua causa, (Bhasbuto, Palafoxx, per fare qualche nome).
+
+Questè é la fede che lui predicò.
+
+Questa è la Fede che noi proclamiamo.
+
+[PS: L'opera completa sarà distribuita e venduta solamente su ordinazione. Con una foto gratuita, con dedica, di Mhoram, in topless]
+
+(da Merlin)
+
+Allegato:
+
+Dal Libro dell'Immolazione (La Rivelazione di Immortality)
+
+E mentre la Chiesa di Weimer prosperò, i profeti Jason e Neil trovarono una studiosa nelle lontane terre di Baldur's Gate, e videro che era una buona cosa. Era chiamata Immortality ed era la governante suprema di un piccolo regno nelle terre del nord chiamato Dlan e con parole gentili la convinsero che la fede in WeiDU era una cosa buona e giusta. E lei rispose così:
+
+"Ad alcuni dei miei cittadini farò studiare questa nuova fede"
+
+E fu in questo modo che Santo Mhoram conobbe la Vera Fede, portato dalla Sacra e Onnipotente Immortality in un luogo chiamato IRC dove il Profeta Jason lo stava aspettando, e gli insegnò la Luce di Weimer, e presto gli fu assegnato l'incarico di diffondere il lavoro e la parola di Weimer nella terra di Spagna. Ed il Regno di Dlan fu il primo a ricevere la Luce, e grazie a lui, tutto si trasformò in uno splendido esempio di lavoro e benevolenza anche tra i suoi simili delle terre lontane ed innumerevoli opere furono realizzate in nome delle Luce. La Parola di Weimer fu tradotta, e molte delle sue opere e quelle dei suoi profeti furono finalmente comprese, come il WeiDU-Readme o come anche il Flirt Packs, e molte altre opere.
+
+E Weimer vide che tutto ciò era buono.
+
+(da Mhoram)~

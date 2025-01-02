@@ -1,0 +1,341 @@
+@0    = ~MawgulNPC~
+@1    = ~Mauro~
+@2    = ~Cuando encontráis un tiempo para decansar os entra curiosidad por el pasado de Mauricio. Veis en su cara algo raro en un elfo... es viejo, extremadamente viejo hasta para un elfo. Entonces tomáis algo de aire y le preguntáis acerca de su vida. Serenamente él os mira a los ojos con sus cejas pobladas y os responde -"No hay mucho que contar". Entonces os preguntáis si realmente es un Elfo o quizás algo más. Sus atavios magicos de Yelmo no aportan respuestas a vuestras dudas sino que las agravan. ¿Qué motivos tiene Mauro para seguiros? ¿Por qué Yelmo lo dejaria estar con vos? Pronto os dais cuenta de que no tiene sentido seguir pensando, vuestra ascendencia divina tiene mucho que ver y hasta Yelmo ha mandado a alguien a seguiros...~
+@3    = ~Gollum~
+@4    = ~Katana de Mawgul Quemadora~
+@5    = ~CARACTERÍSTICAS:
+
+GAC0: bonificación +3
+Daño: 1d10 + 3, + 2 de daño por fuego y ácido
+Tipo de daño: Cortante
+Peso: 3 lbs
+Factor de velocidad: 1
+Talento marcial: Katana
+Tipo: A una mano
+No permitido a:
+ Clérigo
+ Ladrón
+ Mago~
+@6    = ~La Daga de Piedra~
+@7    = ~Mauro lleva la Daga de Piedra según él para vigilar el equilibrio... Encuentraáis a esta arma muy inútil para la pelea pero Mauro os reprocha diciendoos que en realidad su utilidad es estar equipada para obtener sus beneficios y no para agredir.
+
+CARACTERÍSTICAS:
+
+Aptitudes poseídas:
+ Vocalizar
+ Resistencia magica: +15%
+ Reduce en 3 el tiempo de lanzamiento de conjuros
+
+Daño: 1D4
+Tipo de daño: Perforante
+Peso: 1
+Factor de velocidad: 2
+Tipo de talento: Espada pequeña
+
+No permitido a
+ Clérigo~
+@8    = ~Katana de Mawgul Estatica~
+@9    = ~CARACTERÍSTICAS:
+
+GAC0: bonificación +3
+Daño: 1d10 + 3, + 2 de daño por frío y electricidad
+Tipo: de daño: Cortante
+Peso: 3 lbs
+Factor de velocidad: 1
+Talento marcial: Katana
+Tipo: A una mano
+
+No permitido a:
+ Clérigo
+ Ladrón
+ Mago~
+@10   = ~Imperare lux ut saltare~
+@11   = ~Este es un elemento que Mauro lleva, según él para vigilar el equilibrio...
+El anillo conocido La Luz Danzante, tambien llamado la Lupa Solar es la principal arma de Mauricio para eliminar a las creaturas "MUERTAS".
+
+CARACTERÍSTICAS
+
+Aptitudes especiales:
+ Lanza Rayo Solar (dos veces al día)
+ Lanza Falso Amanecer (dos veces al día)
+
+Aptitud poseída:
+ Inmunidad a la consuncion de niveles
+
+No permitido a:~
+@12   = ~Símbolo Sagrado de Yelmo~
+@13   = ~Este es un elemento que Mauro lleva, según él para vigilar el equilibrio...
+Solo a Mauro, entre los magos, se le permite usar este Símbolo Sagrado nunca habías visto algo asi para un mago. Esto desmuestra sin duda el cariño que le tiene Yelmo a Mauricio.
+
+CARACTERÍSTICAS:
+
+Aptitudes especiales:
+ Proporciona dos conjuros extra en el 2°, 3° y 4° nivel
+ Aumenta la Sabiduria 2 puntos
+
+Solo permitido a:
+ Mago~
+@14   = ~Insigne Ex Magus~
+@15   = ~Este es un elemento que Mauro lleva, según él para vigilar el equilibrio...
+Cuando véis a su armadura La Marca de Mago realmente deseáis ponerosla pues es muy liviana y según Maurilondin, alguien (probablemente él) entró a un cubil de troll y encerro al líder en esta gema con un hechizo irrepetible.
+
+CARACTERÍSTICAS
+
+Aptitudes especiales:
+ CA: -1
+ Regenera 1 punto cada 3 segundos
+
+No permitido a:
+ Druida
+ Mago
+ Monje~
+@16   = ~Collar del Desquilibrio Mágico~
+@17   = ~Este es un elemento que Mauro lleva, según él para vigilar el equilibrio...
+Es el Elemento Clon por exelencia de Mawgul. Dice que alguien de gran poder (de nuevo presumís que es él) consiguió cortar un retazo de una Capa de Espejo y lo adhirió a un Amuleto para vigilar el Equilibrar las fluctuaciones mágicas dañinas inversas.
+
+CARACTERÍSTICAS
+
+Aptitudes especiales:
+ Refleja todo el daño de conjuros de vuelta a su origen; esto incluye conjuros ofensivos como Proyectil mágico, pero no los conjuros que no causan daño, como Inmovilizar persona~
+@18   = ~Escudo Mental (Pergamino)~
+@19   = ~Este es un elemento que Mauro lleva, según él para vigilar el equilibrio...
+Un pedazo de papel es lo único que se interpone entre los Ilícitos y la misteriosa mente de Mawgul. Pensáis que mal podria llegar ha hacer un Azotamente con la informacion de la mente de Maurilondin.
+
+CARACTERÍSTICAS:
+
+Aptitudes especiales:
+ Este pergamino provee de un Escudo Mental. El portador es inmune a los ataques Psionicos, a la Confusión, y a la Dominación~
+@20   = ~La Capa de Valy-Gul, el Antiguo-Chiquillo de Bhaal~
+@21   = ~Este es un elemento que Mauro lleva, según él para vigilar el equilibrio...
+Durante sus viajes, un hombre le regaló esto por salvarle de una maldicion. Pensáis qué clase de mancha podria ser tan terrible para que alguien diera un objeto tan poderoso. Cuando le preguntáis a Mauro de nuevo él os esquiva notablemente.
+
+CARACTERÍSTICAS
+
+Aptitudes especiales:
+ Esta capa provee la energia necesaria para que ningún arma normal haga daño alguno
+ El Portador es inmune al veneno y a la enfermedad~
+@22   = ~El Brazo del Guerrero~
+@23   = ~Este es un elemento que Mauro lleva, según él para vigilar el equilibrio... El brazo es una mezcla mística y mecánica. En su lado tiene escrito Mauro-Il- Khan. Mauricio, como siempre, tampoco tiene ganas de hablar al respecto.
+
+CARACTERÍSTICAS
+
+Aptitudes especiales:
+ Celeridad mejorada 3 veces al día
+ GACO: bonificación  +1
+ Daño: bonificación  +2
+ Tiradas de salvacion: bonificación +2~
+@24   = ~Cinto del Equilibrio Yelmista~
+@25   = ~Este es un elemento que Mauro lleva, según él para vigilar el equilibrio... El cinto es el más poderoso de los articulos de Mawgul. El dice que le ayuda a mantener su propio equilibrio interno, ya que Yelmo quiere que siga vigilando todo Toril.
+
+CARACTERÍSTICAS
+
+Aptitudes especiales:
+ Bonifica la clase de armadura en +3 contra las armas cortantes
+ La Fuerza pasa a ser de 18 puntos
+ La Constitución pasa a ser de 18 puntos~
+@26   = ~El Libro del Ladron~
+@27   = ~Cuando Robin, el hobbit, aún no era lo bastante mayor como para poder llevar el negocio de la familia, su abuelo Obilb le escribió en un libro todos los trucos para poder detectar trampas y abrir cerradura. Desafortunadamente no le enseñó a cuidarse ya que este libro le fue robado por un gnomo. Mauro dice que lo encontró y que se lo vendió al muy razonable precio de enseñarle las artes mágicas.
+
+Actitudes especiales:
+ Lanza Apertura y Detectar trampas todas la veces que su usuraio quiera~
+@28   = ~El Anillo Unico~
+@29   = ~No seria muy recomendado poneroslo pero si lo frotáis (como una varita) alguien acudira a ayudaros desesperadamente.~
+
+@31   = ~Némesis + 6~
+@32   = ~Esta es una espada de de los Días Antiguos. Su hoja es de mithril y su empunadura esta recubierta por la escamosa piel de un Dragon Negro. No se sabe su naturaleza exacta pero se supone que es una de las creaciones de Eöl, el elfo oscuro. Al igual que  su herrero su hoja esta llena de odio. Cuando acercas la mano sientes deseo de olvidarte de tu codigo moral para siempre.
+
+CARACTERÍSTICAS:
+
+Aptitudes poseidas:
+ Celeridad, Piel Robliza, Invisibilidad todas juntas una vez al dia
+ Posibilidad de eliminar todas las defensas mágicas
+ La costitucion se reduce en 2 puntos
+ La destreza aumenta en 2 puntos
+ De solo empuñarla el personaje se volverá Caotico Neutral y su carisma baja 2 puntos permanentemente
+
+GAC0: bonificación + 6
+Daño: 1d8 + 6
+Tipo de daño: Cortante
+Peso: 11 lbs
+Factor velocidad: 1
+Talento marcial: Espada larga
+Tipo: A una mano
+
+No permitido a:
+ Clérigo
+ Druida
+ Mago~
+@33   = ~La Armadura de LuM eL lOcO~
+@34   = ~La rápida e ininteligible escritura de Lum no os permite saber qué poderes tiene esta armadura pero sabéis algo, debe ser muy poderosa y peligrosa.
+
+...
+No sé quién es esa mujer alli al frente, pero tiene una gran resistensia májica
+y un dureza eztraordinaria en su armadura lo peor es que me lanza los mismos
+hechizos que yo
+         Lum...
+Rayos ya rompi el espejo y con él la mujer se ha ido...
+...~
+@35   = ~Libro de Instrucciones. Muestra gratis: La gorma más fácil de Matar a un Dragón.~
+@36   = ~En este libro hay un monton de técnicas sencillas para acabar con los desafios que se encuentran en Faerûn.
+
+Por ejemplo, para derrotar a un liche lanzar al mismo tiempo dos rayos solares cerca del mismo.
+
+Para desacerse de un Principe Demoniaco lanzar conjuros de brechas y expulsar
+constantemente y que los guerreros se tiren encima con el gran tornado.
+
+La mejor técnica de apañarselas con muchos trolls es tener a dos personas inmunes
+al 100% de fuego mandarlas a la batalla luego el mago y el clerigo pueden
+lanzar bolas de fuego y tormentas de fuego sin temor a nada.
+
+Además este libro incluye tres muestras gratis para matar a un dragon con un
+conjuro conjunto (funciona el 66% de las veces comprobado por Matadragones &
+Asoc.)~
+@37   = ~Génesis +5~
+@38   = ~Esta es una espada de de los Díaas Actuales. Su hoja es de mithril y su empunadura esta recubierta por la sedosa piel de una Ninfa Blanca. Se cree es una copia invertida de la Némesis. Al igual que su hermana, la hoja está rodeada de misterio. Su poder es el de la defensa y no el de la destrución.
+
+CARACTERÍSTICAS:
+
+Aptitudes poseidas:
+ Borrosidad, Imagen Reflejada, Piel Petrea, Escudo de Fuego juntos tres veces al día
+ Permite ser inmune contra las mágicas una vez al día
+ La Constitución aumenta 2 puntos
+ La Destreza disminuye 2 punto
+ El Carisma aumenta en 2 puntos
+
+GAC0: bonificación +5
+Daño: 1d8 + 5
+Tipo de daño: Cortante
+Peso: 11 lbs
+Factor velocidad: 4
+Talento marcial: Espada Larga
+Tipo: A una mano
+
+Solo permitido a:
+ Mago (Puro o Multiclase)~
+@39   = ~Las SAGRADAS ESCRITURAS de WEIMER~
+@40   = ~Las SAGRADAS ESCRITURAS de WEIMER (Temblad Herejes)
+He aqui el libro más poderoso que alguna vez ha existido.
+
+Cuando lo abrís notáis que cada pagina contiene un conjuro sencillo (e ilimitado) que cualquiera puede citar. También podéis pasar la pagina y tener aceso a otros conjuros pero sin la posibilidad de volver a los anteriores.
+
+Estos son los counjuro con los que os podéis encontrar:
+Golpe de Fuego
+Santuario
+Quitar el Miedo
+Castigo Sagrado
+Curar Heridas Criticas
+Piel Ferrea
+Convocar Deva
+Zona de Aire Limpio
+Rayo de Gloria
+Hoja de Fuego
+
+El libro es muy grande y lleno de pasajes sabios. he aqui algunos de ellos:
+
+El anciano sacerdote se sentó en la silla y miró a los jóvenes que tenia
+delante ansioso por escucharle, y mientras ellos se sentaban les dijo Sentaos
+jóvenes pupilos y escuchad la sabiduría del pasado de boca de los sabios
+ancianos, escuchad la historia de la creación del mundo...........
+
+Antiguo Testamento  Génesis
+
+Cuando solo existía la Nada, el primer día J.R.R. Tolkien decidió crear el
+universo de "El Señor de los Anillos". Y vio que era bueno.
+
+Wizards of the Coast, el segundo día, para regir a ese universo saco a la luz
+las reglas de Dungeons&Dragons... y vieron que eran buenas.
+
+El tercer día unos señores con gafas y jerseys College poblaron el universo de
+grandes sagas;  The Elder Scrolls, Ultima, The Dragon Lore, Might & Magic... y
+vieron que eran MUY buenas.
+
+El cuarto día fue el de la tecnología.  Bioware tejió un motor llamado Infinity
+que puso de acuerdo a todos los pobladores del universo y empezó a dar sus
+frutos  Fallout. Y era realmente buenos.
+
+El quinto día llego, para reinar, la saga Baldur's Gate. Nos quedamos sin
+palabras. Era mucho más que bueno.
+
+Lo que no nos esperábamos era que hubiera un sexto día, en el que veríamos como
+una herramienta de nombre IAP nos hacia temblar en nuestros asientos. La
+experiencia continuaba y gracias a IAP aparecían mods y más mods para nuestro
+deleite (sobre todo del Clan DLAN, que no paraba de traducir, ¡¡¡diantre!!!). Y
+mirando y disfrutando el IAP parecía que era bueno.
+
+El séptimo día, claro, nos lo pasamos jugando sin parar, nos ha jodido...  y el
+octavo y el noveno y... satisfechos con lo que teníamos.
+
+
+Lejos de acabar aquí la historia, continuo, y para mal <música de "La Misión">
+Los hombres se viciaron, y los mods cada vez tenían más bugs y se tardaba
+todavía más en localizarlos y repararlos. Todo se iba al garete y al caos sin
+remisión y sin esperanza, el hundimiento global era inevitable. Pero al fin, en
+el libro de Planescapeuco, encontramos a innumerables profetas multiplanares
+que no cesaban de hablarnos de la llegada de un Mesías, el Salvador.
+
+
+
+Libro de Pentateuco (Planescapeuco) 
+
+Los profetas Neil y Theo fueron apedreados por alabar la llegada de quien
+traería la luz y la esperanza (pero no fueron mártires, siguen dando guerra por
+aquí, gracias a nuestro señor Weimer).
+
+El profeta Jason Compton también fue decapitado... pero le dio igual y siguió
+programando... digo proclamando la llegada del buen Salvador.
+
+
+---
+
+NUEVO TESTAMENTO
+
+Y he aquí, que en un portal de la 7 con la 49 nació Wesley Weimer. No quiso
+seguir con el oficio de su padre, y pronto comenzó a hacer milagros (ya nos
+adentraremos en ellos + adelante). Creció en la fe transmitida por los
+escribas y rabies del IAP, pero pronto predico su palabra, que traería amor,
+salud, el paraíso. Era WeiDU, se acabaron bugs, incompatibilidades y lentejas...
+todo era bello. Por fin se encontraba cualquier error en un tris. Los mods se
+podrían multiplicar y sus discípulos nos regalarían los Flirt Packs que son la
+Hostia.
+
+Jugad a ellos en conmemoración suya!!!
+
+Antes de dejarnos (la novia, el curro y eso) y no por mucho tiempo, toco con su
+mano a su discípulo más querido... Mhoram. Y le dijo, "sobre estas cejas,
+edificare mi Iglesia. Lleva mi palabra a todo buen Inquisidor y arrastra a los
+herejes al programa de José Luis Moreno y que ardan".
+
+Y esa es la historia, básicamente. Luego nos fuimos uniendo otros muchos a su
+causa (Bhasbuto, Palafoxx, por citar algunos) y en esas estamos.
+
+esta es la Fe que proclamamos.
+
+[PD  La obra completa saldrá a la venta por pedido. De regalo una foto de
+Mhoram en Top Less dedicada.] 
+
+(Por Merlín)
+
+Anexo 
+Del libro de las Inmolaciones  (Immort´s Revelation Book)
+
+Y mientras la Iglesia de Weimer crecía los Profetas Jason y Neil encontraron un
+alumna en las lejanas tierras del Baldur´s Gate, y vieron que era buena. Se
+llamaba Immortality y era la Suprema Gobernante de un pequeño Reino en
+expansión llamado Dlan Y con palabras amables la convencieron de que WeiDu era
+bueno, y ella les respondió diciendo
+
+"Haré que algunos de mis súbditos estudien esta nueva fe"
+
+Y así el Santo Mhoram conoció la Verdadera Fe, arrastrado por la Sagrada y
+Todopoderosa Immortality hasta un lugar llamado IRC donde el Profeta Jason le
+esperaba, y el le enseno la Luz de Weimer, y poco después el único le encomendó
+la tarea de divulgar su obra en las tierras de habla hispana. Y el Reino de
+Dlan fue el primero en recibir la Luz, y gracias a ello se convirtió en ejemplo
+de trabajo y buen hacer entre sus semejantes e innumerables obras fueron
+realizadas bajo la Luz. Se tradujo la Palabra de Weimer, y muchas de sus obras
+fueron por fin conocidas, como el WeiDU-Readme, o las de sus profetas, como los
+Flirt Packs, y tantos otros.
+
+Y Weimer vio que era bueno.
+
+(Por Mhoram)~
