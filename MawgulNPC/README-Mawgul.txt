@@ -78,6 +78,8 @@ Versión 2.3
   * Added BG2EE and EET compatibility.	
   * Added french translation (from Spanish, because English... ouch!).
   * corrections on a few items.
-  * Added memorized but unusable abilities to Mawgul.
   * removal of a book with no title, no text and no use (no reference anywhere)
-  * In the item descriptions, the character was independently called Mauro or 	Mawgul or Mauricio or Maurilondin or Mauritius. A choice had to be made -> mawgul in all references.
+  * In the item descriptions, the character was independently called Mauro or Mawgul or Mauricio or Maurilondin or Mauritius. A choice had to be made -> mawgul in all references.
+  
+Versión 2.4 
+  * In his description he had "special abilities similar to those of the priests of Helm". Indeed he had 4 innate ability slots and two heaum priest abilities known but not memorized. This has been corrected.
