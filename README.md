@@ -2,7 +2,8 @@
 
 Il vous attend dans le temple de Helm (Heaum), dans le district du pont.
 
-Particularités :  
+Particularités :
+- Caractéristiques : force 10, dextérité 19, endurance 10, intelligence 18, sagesse 16, charisme 17.
 - Son dialogue se résume à sa présentation. Vous le recrutez, puis plus rien.
 - Il commence avec 2,5M d'xp. (Oui, plus que 500K xp et il est éligible pour les HLAS.)
 - Il a 20% de résistance aux dégâts de feu et froid magiques.
