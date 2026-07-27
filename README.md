@@ -6,6 +6,7 @@ Particularités :
 - Caractéristiques : FOR 10, DEX 19, CON 10, INT 18, SAG 16, CHA 17.
 - Son dialogue se résume à sa présentation. Vous le recrutez, puis plus rien.
 - Il commence avec 2,5M d'xp. (Oui, plus que 500K xp et il est éligible pour les HLAS.)
+- Il a les capacités spéciales d'un prêtre de heaume.
 - Il a 20% de résistance aux dégâts de feu et froid magiques.
 - Il a 60% de résistance à la magie (et il soutien que NON, ce n'est pas un drow (son portrait dit le contraire ^^)).
 - Il est sur-équipé d'objets tous plus bourrins les uns que les autres. Je dirais même carrément cheatés.
