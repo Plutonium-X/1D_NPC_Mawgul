@@ -33,8 +33,11 @@ LANGUAGE ~Italian~
 LANGUAGE ~French~
 				 ~french~
 				 ~MawgulNPC/Languages/french/setup.tra~
-				 			 
-				 
+
+LANGUAGE ~Schinese~
+				 ~schinese~
+				 ~MawgulNPC/Languages/schinese/setup.tra~
+
 BEGIN @0
 
 INCLUDE ~MawgulNPC/gw_functions.tpa~
